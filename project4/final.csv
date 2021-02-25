@@ -1,0 +1,35 @@
+Protein	Blast e-value	Blast annotation	Pfam domains	PSORT localization	TargetP localization
+g702.t1	1.4499999999999998e-11	U-scoloptoxin(01)-Er1a	Chitin binding Peritrophin-A domain	extr	Signal peptide
+g1285.t1	1.74e-12	U-scoloptoxin(01)-Er1a	Chitin binding Peritrophin-A domain	extr	Signal peptide
+g2203.t1	2.3799999999999995e-126	Myogenesis-regulating glycosidase	Glycosyl hydrolases family 31	plas	Other
+g3428.t1	8.529999999999999e-65	Myosin regulatory light chain		mito	Other
+g3679.t1	7.24e-22	Zinc metalloproteinase nas-14	Astacin (Peptidase family M12A)	extr	Signal peptide
+g4106.t1	0.74	TRAF3-interacting protein 1		E.R.	Other
+g4970.t1	1.53e-19	Atrial natriuretic peptide-converting enzyme	Trypsin	plas	Other
+g5237.t1	0.033	Crossover junction endodeoxyribonuclease RuvC		plas	Other
+g5443.t1	1.6	Uncharacterized protein L138 [Acanthamoeba polyphaga mimivirus]		extr	Other
+g5467.t1	3.81e-13	U-scoloptoxin(01)-Er1a	Chitin binding Peritrophin-A domain	extr	Signal peptide
+g5502.t1	5.67e-14	U-scoloptoxin(01)-Er1a	Chitin binding Peritrophin-A domain	extr	Signal peptide
+g5503.t1	6.56e-14	U-scoloptoxin(01)-Er1a	Chitin binding Peritrophin-A domain	extr	Signal peptide
+g5510.t1	0.41	Myeloid-associated differentiation marker	Membrane-associating domain	plas	Other
+g5616.t1	2.19e-14	U-scoloptoxin(01)-Er1a	Chitin binding Peritrophin-A domain	extr	Signal peptide
+g5641.t1	4.98e-13	U-scoloptoxin(01)-Er1a	Chitin binding Peritrophin-A domain	extr	Signal peptide
+g5927.t1	1.05e-18	Glucosamine 6-phosphate N-acetyltransferase		nucl	Other
+g7861.t1	1.5299999999999999e-71	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A-like protein 1	SNF2 family N-terminal domain	nucl	Other
+g8100.t1	2.9199999999999998e-46	Inositol monophosphatase 3	Inositol monophosphatase family	nucl	Other
+g8312.t1	0.0	Vacuolar protein sorting-associated protein 41 homolog	Region in Clathrin and VPS	nucl	Other
+g10513.t1				nucl	Other
+g10514.t1	1.4	Eukaryotic translation initiation factor 3 subunit A		nucl	Other
+g11320.t1	0.076	Chromodomain-helicase-DNA-binding protein 3		plas	Signal peptide
+g11513.t1	6.529999999999998e-83	Trafficking protein particle complex subunit 9	Transport protein Trs120 or TRAPPC9, TRAPP II complex subunit	cyto	Other
+g11806.t1				nucl	Other
+g11960.t1	6.059999999999999e-98	E3 ubiquitin-protein ligase BRE1B	Zinc finger, C3HC4 type (RING finger)	nucl	Other
+g12388.t1	2.6899999999999996e-11	U-scoloptoxin(01)-Er1a	Chitin binding Peritrophin-A domain	extr	Signal peptide
+g12510.t1	0.86	Transcriptional regulator WhiB7 [Mycolicibacterium smegmatis MC2 155]		plas	Other
+g12562.t1	6.97e-13	U-scoloptoxin(01)-Er1a	Chitin binding Peritrophin-A domain	extr	Signal peptide
+g13530.t1				extr	Signal peptide
+g14472.t1				nucl	Other
+g15153.t1	1.84e-14	U-scoloptoxin(01)-Er1a	Chitin binding Peritrophin-A domain	extr	Signal peptide
+g15484.t1	0.0	Vacuolar protein sorting-associated protein 51 homolog	Vps51/Vps67	nucl	Other
+g16318.t1	4.05e-08	Eukaryotic translation initiation factor 3 subunit A		nucl	Other
+g16368.t1	1.18e-05	Eukaryotic translation initiation factor 3 subunit A		nucl	Other

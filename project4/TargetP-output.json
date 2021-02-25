@@ -1,0 +1,626 @@
+{
+  "INFO": {
+    "failedjobs": 0,
+    "size": 34
+  },
+  "CSV_FILE": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_protein_type.txt",
+  "MATURE_FILE": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_mature.fasta",
+  "GFF_FILE": "/services/TargetP-2.0tmp/60326CEA00003354FF1718BD/output.gff3",
+  "ZIP_FILE": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_all_results.zip",
+  "SEQUENCES": {
+    "g10513.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        1,
+        0,
+        0
+      ],
+      "Name": "g10513.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g10513.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g10513.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g10513.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g10514.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.9995,
+        0.0003,
+        0.0001
+      ],
+      "Name": "g10514.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g10514.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g10514.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g10514.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g11320.t1": {
+      "CS_pos": "CS pos: 20-21. AYS-AG. Pr: 0.7236",
+      "Likelihood": [
+        0.0002,
+        0.9998,
+        0
+      ],
+      "Name": "g11320.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g11320.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g11320.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g11320.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g11513.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.9994,
+        0.0004,
+        0.0002
+      ],
+      "Name": "g11513.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g11513.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g11513.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g11513.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g11806.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.999,
+        0.0009,
+        0.0001
+      ],
+      "Name": "g11806.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g11806.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g11806.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g11806.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g11960.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        1,
+        0,
+        0
+      ],
+      "Name": "g11960.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g11960.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g11960.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g11960.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g12388.t1": {
+      "CS_pos": "CS pos: 16-17. ASA-SS. Pr: 0.6485",
+      "Likelihood": [
+        0.0005,
+        0.9995,
+        0
+      ],
+      "Name": "g12388.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g12388.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g12388.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g12388.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g12510.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.9997,
+        0.0001,
+        0.0002
+      ],
+      "Name": "g12510.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g12510.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g12510.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g12510.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g12562.t1": {
+      "CS_pos": "CS pos: 16-17. SYA-AN. Pr: 0.7910",
+      "Likelihood": [
+        0.0001,
+        0.9999,
+        0
+      ],
+      "Name": "g12562.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g12562.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g12562.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g12562.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g1285.t1": {
+      "CS_pos": "CS pos: 16-17. ASA-TS. Pr: 0.7127",
+      "Likelihood": [
+        0.003,
+        0.9968,
+        0.0002
+      ],
+      "Name": "g1285.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g1285.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g1285.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g1285.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g13530.t1": {
+      "CS_pos": "CS pos: 19-20. TIP-FT. Pr: 0.3552",
+      "Likelihood": [
+        0.116,
+        0.8838,
+        0.0002
+      ],
+      "Name": "g13530.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g13530.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g13530.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g13530.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g14472.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        1,
+        0,
+        0
+      ],
+      "Name": "g14472.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g14472.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g14472.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g14472.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g15153.t1": {
+      "CS_pos": "CS pos: 16-17. AYA-AN. Pr: 0.8378",
+      "Likelihood": [
+        0,
+        1,
+        0
+      ],
+      "Name": "g15153.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g15153.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g15153.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g15153.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g15484.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        1,
+        0,
+        0
+      ],
+      "Name": "g15484.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g15484.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g15484.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g15484.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g16318.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.997,
+        0.003,
+        0
+      ],
+      "Name": "g16318.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g16318.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g16318.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g16318.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g16368.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.9967,
+        0.0033,
+        0
+      ],
+      "Name": "g16368.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g16368.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g16368.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g16368.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g2203.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.9999,
+        0,
+        0.0001
+      ],
+      "Name": "g2203.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g2203.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g2203.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g2203.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g3428.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.9999,
+        0,
+        0.0001
+      ],
+      "Name": "g3428.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g3428.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g3428.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g3428.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g3679.t1": {
+      "CS_pos": "CS pos: 18-19. TFA-AR. Pr: 0.5523",
+      "Likelihood": [
+        0.0018,
+        0.998,
+        0.0002
+      ],
+      "Name": "g3679.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g3679.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g3679.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g3679.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g4106.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.7297,
+        0.2669,
+        0.0034
+      ],
+      "Name": "g4106.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g4106.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g4106.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g4106.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g4970.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        1,
+        0,
+        0
+      ],
+      "Name": "g4970.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g4970.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g4970.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g4970.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g5237.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.9995,
+        0.0003,
+        0.0001
+      ],
+      "Name": "g5237.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5237.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5237.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5237.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g5443.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.9529,
+        0.0438,
+        0.0034
+      ],
+      "Name": "g5443.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5443.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5443.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5443.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g5467.t1": {
+      "CS_pos": "CS pos: 16-17. ASA-GS. Pr: 0.6543",
+      "Likelihood": [
+        0.0001,
+        0.9998,
+        0.0001
+      ],
+      "Name": "g5467.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5467.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5467.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5467.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g5502.t1": {
+      "CS_pos": "CS pos: 16-17. ASA-GS. Pr: 0.6833",
+      "Likelihood": [
+        0.0011,
+        0.9988,
+        0
+      ],
+      "Name": "g5502.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5502.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5502.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5502.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g5503.t1": {
+      "CS_pos": "CS pos: 16-17. ASA-GS. Pr: 0.6833",
+      "Likelihood": [
+        0.0012,
+        0.9987,
+        0.0001
+      ],
+      "Name": "g5503.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5503.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5503.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5503.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g5510.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.9991,
+        0,
+        0.0009
+      ],
+      "Name": "g5510.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5510.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5510.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5510.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g5616.t1": {
+      "CS_pos": "CS pos: 16-17. ACA-AN. Pr: 0.5270",
+      "Likelihood": [
+        0.0001,
+        0.9999,
+        0
+      ],
+      "Name": "g5616.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5616.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5616.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5616.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g5641.t1": {
+      "CS_pos": "CS pos: 16-17. ACA-AS. Pr: 0.4873",
+      "Likelihood": [
+        0.0001,
+        0.9999,
+        0
+      ],
+      "Name": "g5641.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5641.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5641.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5641.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g5927.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        1,
+        0,
+        0
+      ],
+      "Name": "g5927.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5927.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5927.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g5927.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g702.t1": {
+      "CS_pos": "CS pos: 16-17. ALA-AN. Pr: 0.8153",
+      "Likelihood": [
+        0.0003,
+        0.9997,
+        0
+      ],
+      "Name": "g702.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g702.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g702.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g702.t1_pred.txt",
+      "Prediction": "Signal peptide",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g7861.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        1,
+        0,
+        0
+      ],
+      "Name": "g7861.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g7861.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g7861.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g7861.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g8100.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        1,
+        0,
+        0
+      ],
+      "Name": "g8100.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g8100.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g8100.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g8100.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    },
+    "g8312.t1": {
+      "CS_pos": "",
+      "Likelihood": [
+        0.9999,
+        0.0001,
+        0
+      ],
+      "Name": "g8312.t1",
+      "Plot_eps": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g8312.t1_plot.eps",
+      "Plot_png": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g8312.t1_plot.png",
+      "Plot_txt": "/services/TargetP-2.0/tmp/60326CEA00003354FF1718BD/output_g8312.t1_pred.txt",
+      "Prediction": "Other",
+      "Protein_types": [
+        "Other",
+        "Signal peptide",
+        "Mitochondrial transfer peptide"
+      ]
+    }
+  },
+  "FORMAT": "long",
+  "ORG": "Non-Plant"
+}

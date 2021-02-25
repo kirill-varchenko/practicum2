@@ -1,0 +1,35 @@
+1 	g10513.t1 	0 	DONE 			show
+2 	g10514.t1 	0 	DONE 			show
+3 	g11320.t1 	0 	DONE 			show
+4 	g11513.t1 	1 	DONE 	TRAPPC9-Trs120 	Transport protein Trs120 or TRAPPC9, TRAPP II complex subunit 	show
+5 	g11806.t1 	0 	DONE 			show
+6 	g11960.t1 	1 	DONE 	zf-C3HC4 	Zinc finger, C3HC4 type (RING finger) 	show
+7 	g12388.t1 	1 	DONE 	CBM_14 	Chitin binding Peritrophin-A domain 	show
+8 	g12510.t1 	0 	DONE 			show
+9 	g12562.t1 	1 	DONE 	CBM_14 	Chitin binding Peritrophin-A domain 	show
+10 	g1285.t1 	1 	DONE 	CBM_14 	Chitin binding Peritrophin-A domain 	show
+11 	g13530.t1 	0 	DONE 			show
+12 	g14472.t1 	0 	DONE 			show
+13 	g15153.t1 	1 	DONE 	CBM_14 	Chitin binding Peritrophin-A domain 	show
+14 	g15484.t1 	5 	DONE 	Vps51 	Vps51/Vps67 	show
+15 	g16318.t1 	0 	DONE 			show
+16 	g16368.t1 	0 	DONE 			show
+17 	g2203.t1 	1 	DONE 	Glyco_hydro_31 	Glycosyl hydrolases family 31 	show
+18 	g3428.t1 	0 	DONE 			show
+19 	g3679.t1 	1 	DONE 	Astacin 	Astacin (Peptidase family M12A) 	show
+20 	g4106.t1 	0 	DONE 			show
+21 	g4970.t1 	3 	DONE 	Trypsin 	Trypsin 	show
+22 	g5237.t1 	0 	DONE 			show
+23 	g5443.t1 	0 	DONE 			show
+24 	g5467.t1 	1 	DONE 	CBM_14 	Chitin binding Peritrophin-A domain 	show
+25 	g5502.t1 	1 	DONE 	CBM_14 	Chitin binding Peritrophin-A domain 	show
+26 	g5503.t1 	1 	DONE 	CBM_14 	Chitin binding Peritrophin-A domain 	show
+27 	g5510.t1 	1 	DONE 	MARVEL 	Membrane-associating domain 	show
+28 	g5616.t1 	1 	DONE 	CBM_14 	Chitin binding Peritrophin-A domain 	show
+29 	g5641.t1 	1 	DONE 	CBM_14 	Chitin binding Peritrophin-A domain 	show
+30 	g5927.t1 	0 	DONE 			show
+31 	g702.t1 	1 	DONE 	CBM_14 	Chitin binding Peritrophin-A domain 	show
+32 	g7861.t1 	3 	DONE 	SNF2_N 	SNF2 family N-terminal domain 	show
+33 	g8100.t1 	2 	DONE 	Inositol_P 	Inositol monophosphatase family 	show
+34 	g8312.t1 	1 	DONE 	Clathrin 	Region in Clathrin and VPS 	show
+

@@ -1,0 +1,34 @@
+g10513.t1	Other
+g10514.t1	Other
+g11320.t1	Signal peptide
+g11513.t1	Other
+g11806.t1	Other
+g11960.t1	Other
+g12388.t1	Signal peptide
+g12510.t1	Other
+g12562.t1	Signal peptide
+g1285.t1	Signal peptide
+g13530.t1	Signal peptide
+g14472.t1	Other
+g15153.t1	Signal peptide
+g15484.t1	Other
+g16318.t1	Other
+g16368.t1	Other
+g2203.t1	Other
+g3428.t1	Other
+g3679.t1	Signal peptide
+g4106.t1	Other
+g4970.t1	Other
+g5237.t1	Other
+g5443.t1	Other
+g5467.t1	Signal peptide
+g5502.t1	Signal peptide
+g5503.t1	Signal peptide
+g5510.t1	Other
+g5616.t1	Signal peptide
+g5641.t1	Signal peptide
+g5927.t1	Other
+g702.t1	Signal peptide
+g7861.t1	Other
+g8100.t1	Other
+g8312.t1	Other
