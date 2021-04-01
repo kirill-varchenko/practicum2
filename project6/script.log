@@ -1,0 +1,548 @@
+Start on 2021-04-01T16:21:43+03:00
+
+1 Downloading data
+
+2 Build index and align
+Settings:
+  Output files: "genome_index.*.ht2"
+  Line rate: 6 (line is 64 bytes)
+  Lines per side: 1 (side is 64 bytes)
+  Offset rate: 4 (one in 16)
+  FTable chars: 10
+  Strings: unpacked
+  Local offset rate: 3 (one in 8)
+  Local fTable chars: 6
+  Local sequence length: 57344
+  Local sequence overlap between two consecutive indexes: 1024
+  Endianness: little
+  Actual local endianness: little
+  Sanity checking: disabled
+  Assertions: disabled
+  Random seed: 0
+  Sizeofs: void*:8, int:4, long:8, size_t:8
+Input files DNA, FASTA:
+  GCF_000146045.2_R64_genomic.fna
+Reading reference sizes
+  Time reading reference sizes: 00:00:00
+Calculating joined length
+Writing header
+Reserving space for joined string
+Joining reference sequences
+  Time to join reference sequences: 00:00:01
+  Time to read SNPs and splice sites: 00:00:00
+Using parameters --bmax 2279457 --dcv 1024
+  Doing ahead-of-time memory usage test
+  Passed!  Constructing with these parameters: --bmax 2279457 --dcv 1024
+Constructing suffix-array element generator
+Building DifferenceCoverSample
+  Building sPrime
+  Building sPrimeOrder
+  V-Sorting samples
+  V-Sorting samples time: 00:00:00
+  Allocating rank array
+  Ranking v-sort output
+  Ranking v-sort output time: 00:00:00
+  Invoking Larsson-Sadakane on ranks
+  Invoking Larsson-Sadakane on ranks time: 00:00:00
+  Sanity-checking and returning
+Building samples
+Reserving space for 12 sample suffixes
+Generating random suffixes
+QSorting 12 sample offsets, eliminating duplicates
+QSorting sample offsets, eliminating duplicates time: 00:00:00
+Multikey QSorting 12 samples
+  (Using difference cover)
+  Multikey QSorting samples time: 00:00:00
+Calculating bucket sizes
+Splitting and merging
+  Splitting and merging time: 00:00:00
+Avg bucket size: 1.73673e+06 (target: 2279456)
+Converting suffix-array elements to index image
+Allocating ftab, absorbFtab
+Entering GFM loop
+Getting block 1 of 7
+  Reserving size (2279457) for bucket 1
+  Calculating Z arrays for bucket 1
+  Entering block accumulator loop for bucket 1:
+  bucket 1: 10%
+  bucket 1: 20%
+  bucket 1: 30%
+  bucket 1: 40%
+  bucket 1: 50%
+  bucket 1: 60%
+  bucket 1: 70%
+  bucket 1: 80%
+  bucket 1: 90%
+  bucket 1: 100%
+  Sorting block of length 1917483 for bucket 1
+  (Using difference cover)
+  Sorting block time: 00:00:01
+Returning block of 1917484 for bucket 1
+Getting block 2 of 7
+  Reserving size (2279457) for bucket 2
+  Calculating Z arrays for bucket 2
+  Entering block accumulator loop for bucket 2:
+  bucket 2: 10%
+  bucket 2: 20%
+  bucket 2: 30%
+  bucket 2: 40%
+  bucket 2: 50%
+  bucket 2: 60%
+  bucket 2: 70%
+  bucket 2: 80%
+  bucket 2: 90%
+  bucket 2: 100%
+  Sorting block of length 1565107 for bucket 2
+  (Using difference cover)
+  Sorting block time: 00:00:01
+Returning block of 1565108 for bucket 2
+Getting block 3 of 7
+  Reserving size (2279457) for bucket 3
+  Calculating Z arrays for bucket 3
+  Entering block accumulator loop for bucket 3:
+  bucket 3: 10%
+  bucket 3: 20%
+  bucket 3: 30%
+  bucket 3: 40%
+  bucket 3: 50%
+  bucket 3: 60%
+  bucket 3: 70%
+  bucket 3: 80%
+  bucket 3: 90%
+  bucket 3: 100%
+  Sorting block of length 2077071 for bucket 3
+  (Using difference cover)
+  Sorting block time: 00:00:01
+Returning block of 2077072 for bucket 3
+Getting block 4 of 7
+  Reserving size (2279457) for bucket 4
+  Calculating Z arrays for bucket 4
+  Entering block accumulator loop for bucket 4:
+  bucket 4: 10%
+  bucket 4: 20%
+  bucket 4: 30%
+  bucket 4: 40%
+  bucket 4: 50%
+  bucket 4: 60%
+  bucket 4: 70%
+  bucket 4: 80%
+  bucket 4: 90%
+  bucket 4: 100%
+  Sorting block of length 1959963 for bucket 4
+  (Using difference cover)
+  Sorting block time: 00:00:01
+Returning block of 1959964 for bucket 4
+Getting block 5 of 7
+  Reserving size (2279457) for bucket 5
+  Calculating Z arrays for bucket 5
+  Entering block accumulator loop for bucket 5:
+  bucket 5: 10%
+  bucket 5: 20%
+  bucket 5: 30%
+  bucket 5: 40%
+  bucket 5: 50%
+  bucket 5: 60%
+  bucket 5: 70%
+  bucket 5: 80%
+  bucket 5: 90%
+  bucket 5: 100%
+  Sorting block of length 1858740 for bucket 5
+  (Using difference cover)
+  Sorting block time: 00:00:01
+Returning block of 1858741 for bucket 5
+Getting block 6 of 7
+  Reserving size (2279457) for bucket 6
+  Calculating Z arrays for bucket 6
+  Entering block accumulator loop for bucket 6:
+  bucket 6: 10%
+  bucket 6: 20%
+  bucket 6: 30%
+  bucket 6: 40%
+  bucket 6: 50%
+  bucket 6: 60%
+  bucket 6: 70%
+  bucket 6: 80%
+  bucket 6: 90%
+  bucket 6: 100%
+  Sorting block of length 630502 for bucket 6
+  (Using difference cover)
+  Sorting block time: 00:00:01
+Returning block of 630503 for bucket 6
+Getting block 7 of 7
+  Reserving size (2279457) for bucket 7
+  Calculating Z arrays for bucket 7
+  Entering block accumulator loop for bucket 7:
+  bucket 7: 10%
+  bucket 7: 20%
+  bucket 7: 30%
+  bucket 7: 40%
+  bucket 7: 50%
+  bucket 7: 60%
+  bucket 7: 70%
+  bucket 7: 80%
+  bucket 7: 90%
+  bucket 7: 100%
+  Sorting block of length 2148233 for bucket 7
+  (Using difference cover)
+  Sorting block time: 00:00:01
+Returning block of 2148234 for bucket 7
+Exited GFM loop
+fchr[A]: 0
+fchr[C]: 3766349
+fchr[G]: 6086925
+fchr[T]: 8404025
+fchr[$]: 12157105
+Exiting GFM::buildToDisk()
+Returning from initFromVector
+Wrote 8248454 bytes to primary GFM file: genome_index.1.ht2
+Wrote 3039284 bytes to secondary GFM file: genome_index.2.ht2
+Re-opening _in1 and _in2 as input streams
+Returning from GFM constructor
+Returning from initFromVector
+Wrote 5399069 bytes to primary GFM file: genome_index.5.ht2
+Wrote 3092708 bytes to secondary GFM file: genome_index.6.ht2
+Re-opening _in5 and _in5 as input streams
+Returning from HierEbwt constructor
+Headers:
+    len: 12157105
+    gbwtLen: 12157106
+    nodes: 12157106
+    sz: 3039277
+    gbwtSz: 3039277
+    lineRate: 6
+    offRate: 4
+    offMask: 0xfffffff0
+    ftabChars: 10
+    eftabLen: 0
+    eftabSz: 0
+    ftabLen: 1048577
+    ftabSz: 4194308
+    offsLen: 759820
+    offsSz: 3039280
+    lineSz: 64
+    sideSz: 64
+    sideGbwtSz: 48
+    sideGbwtLen: 192
+    numSides: 63319
+    numLines: 63319
+    gbwtTotLen: 4052416
+    gbwtTotSz: 4052416
+    reverse: 0
+    linearFM: Yes
+Total time for call to driver() for forward index: 00:00:10
+SRR941816
+9043877 reads; of these:
+  9043877 (100.00%) were unpaired; of these:
+    520137 (5.75%) aligned 0 times
+    7929703 (87.68%) aligned exactly 1 time
+    594037 (6.57%) aligned >1 times
+94.25% overall alignment rate
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+SRR941817
+9929568 reads; of these:
+  9929568 (100.00%) were unpaired; of these:
+    511726 (5.15%) aligned 0 times
+    8644591 (87.06%) aligned exactly 1 time
+    773251 (7.79%) aligned >1 times
+94.85% overall alignment rate
+[bam_sort_core] merging from 2 files and 1 in-memory blocks...
+SRR941818
+1721675 reads; of these:
+  1721675 (100.00%) were unpaired; of these:
+    66368 (3.85%) aligned 0 times
+    1507910 (87.58%) aligned exactly 1 time
+    147397 (8.56%) aligned >1 times
+96.15% overall alignment rate
+SRR941819
+6172452 reads; of these:
+  6172452 (100.00%) were unpaired; of these:
+    234529 (3.80%) aligned 0 times
+    5367723 (86.96%) aligned exactly 1 time
+    570200 (9.24%) aligned >1 times
+96.20% overall alignment rate
+[bam_sort_core] merging from 1 files and 1 in-memory blocks...
+
+3 Feature count
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.0
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 4 BAM files                                      ||
+||                           o SRR941816.bam                                  ||
+||                           o SRR941817.bam                                  ||
+||                           o SRR941818.bam                                  ||
+||                           o SRR941819.bam                                  ||
+||                                                                            ||
+||             Output file : features.tsv                                     ||
+||                 Summary : features.tsv.summary                             ||
+||              Annotation : GCF_000146045.2_R64_genomic.gtf (GTF)            ||
+||      Dir for temp files : ./                                               ||
+||                                                                            ||
+||                 Threads : 1                                                ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file GCF_000146045.2_R64_genomic.gtf ...                   ||
+||    Features : 6760                                                         ||
+||    Meta-features : 6420                                                    ||
+||    Chromosomes/contigs : 17                                                ||
+||                                                                            ||
+|| Process BAM file SRR941816.bam...                                          ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 9749624                                              ||
+||    Successfully assigned alignments : 7291724 (74.8%)                      ||
+||    Running time : 0.29 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR941817.bam...                                          ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 10810484                                             ||
+||    Successfully assigned alignments : 7987002 (73.9%)                      ||
+||    Running time : 0.29 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR941818.bam...                                          ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 1880816                                              ||
+||    Successfully assigned alignments : 1402168 (74.6%)                      ||
+||    Running time : 0.05 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR941819.bam...                                          ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 6782903                                              ||
+||    Successfully assigned alignments : 4975467 (73.4%)                      ||
+||    Running time : 0.17 minutes                                             ||
+||                                                                            ||
+||                                                                            ||
+|| Summary of counting results can be found in file "features.tsv.summary"    ||
+||                                                                            ||
+\\============================================================================//
+
+
+4 Find differentially expressed genes with Deseq2
+
+R version 4.0.4 (2021-02-15) -- "Lost Library Book"
+Copyright (C) 2021 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Load the library.
+> library(DESeq2)
+Loading required package: S4Vectors
+Loading required package: stats4
+Loading required package: BiocGenerics
+Loading required package: parallel
+
+Attaching package: ‘BiocGenerics’
+
+The following objects are masked from ‘package:parallel’:
+
+    clusterApply, clusterApplyLB, clusterCall, clusterEvalQ,
+    clusterExport, clusterMap, parApply, parCapply, parLapply,
+    parLapplyLB, parRapply, parSapply, parSapplyLB
+
+The following objects are masked from ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+The following objects are masked from ‘package:base’:
+
+    anyDuplicated, append, as.data.frame, basename, cbind, colnames,
+    dirname, do.call, duplicated, eval, evalq, Filter, Find, get, grep,
+    grepl, intersect, is.unsorted, lapply, Map, mapply, match, mget,
+    order, paste, pmax, pmax.int, pmin, pmin.int, Position, rank,
+    rbind, Reduce, rownames, sapply, setdiff, sort, table, tapply,
+    union, unique, unsplit, which.max, which.min
+
+
+Attaching package: ‘S4Vectors’
+
+The following object is masked from ‘package:base’:
+
+    expand.grid
+
+Loading required package: IRanges
+Loading required package: GenomicRanges
+Loading required package: GenomeInfoDb
+Loading required package: SummarizedExperiment
+Loading required package: MatrixGenerics
+Loading required package: matrixStats
+
+Attaching package: ‘MatrixGenerics’
+
+The following objects are masked from ‘package:matrixStats’:
+
+    colAlls, colAnyNAs, colAnys, colAvgsPerRowSet, colCollapse,
+    colCounts, colCummaxs, colCummins, colCumprods, colCumsums,
+    colDiffs, colIQRDiffs, colIQRs, colLogSumExps, colMadDiffs,
+    colMads, colMaxs, colMeans2, colMedians, colMins, colOrderStats,
+    colProds, colQuantiles, colRanges, colRanks, colSdDiffs, colSds,
+    colSums2, colTabulates, colVarDiffs, colVars, colWeightedMads,
+    colWeightedMeans, colWeightedMedians, colWeightedSds,
+    colWeightedVars, rowAlls, rowAnyNAs, rowAnys, rowAvgsPerColSet,
+    rowCollapse, rowCounts, rowCummaxs, rowCummins, rowCumprods,
+    rowCumsums, rowDiffs, rowIQRDiffs, rowIQRs, rowLogSumExps,
+    rowMadDiffs, rowMads, rowMaxs, rowMeans2, rowMedians, rowMins,
+    rowOrderStats, rowProds, rowQuantiles, rowRanges, rowRanks,
+    rowSdDiffs, rowSds, rowSums2, rowTabulates, rowVarDiffs, rowVars,
+    rowWeightedMads, rowWeightedMeans, rowWeightedMedians,
+    rowWeightedSds, rowWeightedVars
+
+Loading required package: Biobase
+Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with
+    'browseVignettes()'. To cite Bioconductor, see
+    'citation("Biobase")', and for packages 'citation("pkgname")'.
+
+
+Attaching package: ‘Biobase’
+
+The following object is masked from ‘package:MatrixGenerics’:
+
+    rowMedians
+
+The following objects are masked from ‘package:matrixStats’:
+
+    anyMissing, rowMedians
+
+> 
+> # Set up the conditions based on the experimental setup.
+> cond_1 = rep("cond1", 2)
+> cond_2 = rep("cond2", 2)
+> 
+> # Read the data from the standard input.
+> countData = read.table("stdin", header=TRUE, sep="\t", row.names=1 )
+> 
+> # Build the dataframe from the conditions
+> samples = names(countData)
+> condition = factor(c(cond_1, cond_2))
+> colData = data.frame(samples=samples, condition=condition)
+> 
+> # Create DESEq2 dataset.
+> dds = DESeqDataSetFromMatrix(countData=countData, colData=colData, design = ~condition)
+> 
+> #Set the reference to be compared
+> dds$condition = relevel(dds$condition,"cond1")
+> 
+> # Run deseq
+> dds = DESeq(dds)
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+> 
+> # Format the results.
+> res = results(dds)
+> 
+> # Sort the results data frame by the padj and foldChange columns.
+> sorted = res[with(res, order(padj, -log2FoldChange)), ]
+> 
+> # Turn it into a dataframe to have proper column names.
+> sorted.df = data.frame("id"=rownames(sorted),sorted)
+> 
+> # Write the table out.
+> write.table(sorted.df, file="result.txt", sep="\t", col.names=NA, quote=FALSE)
+> 
+> # Get normalized counts and write this to a file
+> nc = counts(dds,normalized=TRUE)
+> 
+> # Turn it into a dataframe to have proper column names.
+> dt = data.frame("id"=rownames(nc),nc)
+> 
+> # Save the normalize data matrix.
+> write.table(dt, file="norm-matrix-deseq2.txt", sep="\t",  row.name=FALSE, col.names=TRUE,quote=FALSE)
+> 
+> 
+> 
+
+R version 4.0.4 (2021-02-15) -- "Lost Library Book"
+Copyright (C) 2021 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(gplots)
+
+Attaching package: ‘gplots’
+
+The following object is masked from ‘package:stats’:
+
+    lowess
+
+> 
+> # Read normalized counts
+> data = read.table("stdin", header=T, sep="\t", as.is=TRUE)
+> 
+> gene = data[,1]
+> vals = as.matrix(data[,2:ncol(data)])
+> 
+> # Adds a little noise to each element
+> # To avoid the clusteing function failing on zero
+> # variance datalines.
+> vals = jitter(vals, factor = 1, amount=0.00001)
+> 
+> 
+> # Calculate zscore
+> score = NULL
+> for (i in 1:nrow(vals)) {
++     row=vals[i,]
++     zscore=(row-mean(row))/sd(row)
++     score =rbind(score,zscore)
++ }
+> 
+> row.names(score) = gene
+> zscore=score
+> 
+> # Generate heatmap
+> mat = as.matrix(zscore)
+> 
+> # Opent the drawing device.
+> pdf('output.pdf')
+> 
+> colors = colorRampPalette(c("green","black","red"),space="rgb")(256)
+> heatmap.2(mat,col=colors,density.info="none",trace="none", margins=c(14,14),lhei=c(1,5))
+> 
+> invisible(dev.off())
+> 
+
+End on 2021-04-01T16:34:45+03:00
